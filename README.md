@@ -1,5 +1,6 @@
 # E-Commerce Data Analysis using Python and SQL
-SQL project to analyze E-Commerce data
+SQL project to analyze E-Commerce data.
+
 This project is an implementation of an e-commerce database using Python and SQL. The project includes scripts for importing data from CSV to SQL, as well as an interactive Jupyter Notebook for querying the database.
 
 ## Database and Tools
